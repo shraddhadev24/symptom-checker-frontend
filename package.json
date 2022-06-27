@@ -14,7 +14,6 @@
   },
   "devDependencies": {
     "@types/react-dom": "^18.0.5",
-    "@typescript-eslint/eslint-plugin": "^4.20.0",
     "@typescript-eslint/parser": "^4.20.0",
     "babel-eslint": "^10.1.0",
     "cross-env": "^7.0.3",
