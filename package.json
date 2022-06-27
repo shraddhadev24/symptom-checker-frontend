@@ -17,8 +17,6 @@
     "@typescript-eslint/parser": "^4.20.0",
     "babel-eslint": "^10.1.0",
     "cross-env": "^7.0.3",
-    "eslint": "^7.23.0",
-    "eslint-config-prettier": "^8.1.0",
     "prettier": "^2.1.2",
     "react-scripts": "^4.0.3",
     "react-test-renderer": "^16.13.1",
